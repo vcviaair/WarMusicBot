@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/TheWarBotZ",
-    "repository": "https://github.com/xAbhish3k/warmusicbot",
+    "repository": "https://github.com/vcviaair/WarMusicBot",
     "success_url": "https://t.me/xAbhish3k",
     "env": {
         "API_ID": {
